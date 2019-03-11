@@ -1,0 +1,10 @@
+img {
+	margin: 50px;
+	width:100px;
+	height: 100px;
+	transition: transform ease-in 1s;
+}
+
+img:hover {
+	transform:scale(2,2);
+}
